@@ -104,10 +104,13 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>D:\Projects\Cplusplus_Lab\Cplusplus_Lab;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>D:\Projects\Cplusplus_Lab\Cplusplus_Lab\odb;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>odb-sqlite-d.lib;odb-d.lib;$(CoreLibraryDependencies);%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
@@ -128,6 +131,22 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Cplusplus_Lab.cpp" />
+    <ClCompile Include="SqliteORMTesting\person-odb.cxx" />
+    <ClCompile Include="SqliteORMTesting\person-odb.ixx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Json\json.hpp" />
+    <ClInclude Include="MultiJson\DataModel.h" />
+    <ClInclude Include="MultiJson\FileIO.h" />
+    <ClInclude Include="MultiJson\Settings.h" />
+    <ClInclude Include="Singleton.h" />
+    <ClInclude Include="SqliteORMTesting\DataModel.h" />
+    <ClInclude Include="SqliteORMTesting\person-odb.hxx" />
+    <ClInclude Include="SqliteORMTesting\person.hxx" />
+    <ClInclude Include="SqliteORMTesting\Settings.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="SqliteORMTesting\person.xml" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

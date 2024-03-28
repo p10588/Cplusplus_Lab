@@ -1,0 +1,26 @@
+{
+    "id": 0,
+    "name": "AAAAAAA",
+    "profiles": {
+        "profile01": {
+            "applications": {
+                "App01": {
+                    "config": {
+                        "command": {
+                            "action": {
+                                "id": 0,
+                                "name": "action"
+                            }
+                        },
+                        "id": 0,
+                        "name": "default"
+                    },
+                    "id": 0,
+                    "name": "App01"
+                }
+            },
+            "id": 0,
+            "name": "profile01"
+        }
+    }
+}

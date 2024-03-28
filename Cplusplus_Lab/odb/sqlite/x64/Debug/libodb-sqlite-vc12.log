@@ -1,0 +1,133 @@
+﻿  connection.cxx
+C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,40): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface struct 'odb::exception'
+  (compiling source file 'connection.cxx')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_exception.h(48,7):
+  see declaration of 'std::exception'
+  C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,24):
+  see declaration of 'odb::exception'
+  
+  connection-factory.cxx
+C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,40): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface struct 'odb::exception'
+  (compiling source file 'connection-factory.cxx')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_exception.h(48,7):
+  see declaration of 'std::exception'
+  C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,24):
+  see declaration of 'odb::exception'
+  
+  database.cxx
+C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,40): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface struct 'odb::exception'
+  (compiling source file 'database.cxx')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_exception.h(48,7):
+  see declaration of 'std::exception'
+  C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,24):
+  see declaration of 'odb::exception'
+  
+  error.cxx
+C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,40): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface struct 'odb::exception'
+  (compiling source file 'error.cxx')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_exception.h(48,7):
+  see declaration of 'std::exception'
+  C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,24):
+  see declaration of 'odb::exception'
+  
+  exceptions.cxx
+C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,40): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface struct 'odb::exception'
+  (compiling source file 'exceptions.cxx')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_exception.h(48,7):
+  see declaration of 'std::exception'
+  C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,24):
+  see declaration of 'odb::exception'
+  
+  prepared-query.cxx
+C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,40): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface struct 'odb::exception'
+  (compiling source file 'prepared-query.cxx')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_exception.h(48,7):
+  see declaration of 'std::exception'
+  C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,24):
+  see declaration of 'odb::exception'
+  
+  query.cxx
+C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,40): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface struct 'odb::exception'
+  (compiling source file 'query.cxx')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_exception.h(48,7):
+  see declaration of 'std::exception'
+  C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,24):
+  see declaration of 'odb::exception'
+  
+  query-dynamic.cxx
+C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,40): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface struct 'odb::exception'
+  (compiling source file 'query-dynamic.cxx')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_exception.h(48,7):
+  see declaration of 'std::exception'
+  C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,24):
+  see declaration of 'odb::exception'
+  
+  query-const-expr.cxx
+C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,40): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface struct 'odb::exception'
+  (compiling source file 'query-const-expr.cxx')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_exception.h(48,7):
+  see declaration of 'std::exception'
+  C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,24):
+  see declaration of 'odb::exception'
+  
+  simple-object-statements.cxx
+C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,40): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface struct 'odb::exception'
+  (compiling source file 'simple-object-statements.cxx')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_exception.h(48,7):
+  see declaration of 'std::exception'
+  C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,24):
+  see declaration of 'odb::exception'
+  
+  statement.cxx
+C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,40): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface struct 'odb::exception'
+  (compiling source file 'statement.cxx')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_exception.h(48,7):
+  see declaration of 'std::exception'
+  C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,24):
+  see declaration of 'odb::exception'
+  
+  statements-base.cxx
+C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,40): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface struct 'odb::exception'
+  (compiling source file 'statements-base.cxx')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_exception.h(48,7):
+  see declaration of 'std::exception'
+  C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,24):
+  see declaration of 'odb::exception'
+  
+  statement-cache.cxx
+C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,40): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface struct 'odb::exception'
+  (compiling source file 'statement-cache.cxx')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_exception.h(48,7):
+  see declaration of 'std::exception'
+  C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,24):
+  see declaration of 'odb::exception'
+  
+  tracer.cxx
+C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,40): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface struct 'odb::exception'
+  (compiling source file 'tracer.cxx')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_exception.h(48,7):
+  see declaration of 'std::exception'
+  C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,24):
+  see declaration of 'odb::exception'
+  
+  traits.cxx
+  transaction.cxx
+C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,40): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface struct 'odb::exception'
+  (compiling source file 'transaction.cxx')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_exception.h(48,7):
+  see declaration of 'std::exception'
+  C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,24):
+  see declaration of 'odb::exception'
+  
+  transaction-impl.cxx
+C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,40): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface struct 'odb::exception'
+  (compiling source file 'transaction-impl.cxx')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vcruntime_exception.h(48,7):
+  see declaration of 'std::exception'
+  C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\odb\exception.hxx(19,24):
+  see declaration of 'odb::exception'
+  
+  Generating Code...
+  options.cxx
+     Creating library ..\..\lib64\odb-sqlite-d.lib and object ..\..\lib64\odb-sqlite-d.exp
+  libodb-sqlite-vc12.vcxproj -> C:\Users\TP2312040\Downloads\libodb-sqlite-2.4.0\bin64\odb-sqlite-d-2.4-vc12.dll

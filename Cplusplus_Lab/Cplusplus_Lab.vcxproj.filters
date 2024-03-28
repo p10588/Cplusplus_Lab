@@ -13,10 +13,62 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="MultiJsonFile">
+      <UniqueIdentifier>{99ade405-b85e-4470-9aea-3e17fda1c464}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SQL">
+      <UniqueIdentifier>{de101615-bc88-4967-a8b7-b0bb9c555004}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hyber">
+      <UniqueIdentifier>{8b60e709-c1b7-4a03-9277-75a9f158f927}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SqliteORMTesting">
+      <UniqueIdentifier>{bfe05053-4dec-4b04-80e1-c3ac06395c49}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Cplusplus_Lab.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="SqliteORMTesting\person-odb.cxx">
+      <Filter>SqliteORMTesting</Filter>
+    </ClCompile>
+    <ClCompile Include="SqliteORMTesting\person-odb.ixx">
+      <Filter>SqliteORMTesting</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Singleton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Json\json.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiJson\DataModel.h">
+      <Filter>MultiJsonFile</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiJson\FileIO.h">
+      <Filter>MultiJsonFile</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiJson\Settings.h">
+      <Filter>MultiJsonFile</Filter>
+    </ClInclude>
+    <ClInclude Include="SqliteORMTesting\DataModel.h">
+      <Filter>SqliteORMTesting</Filter>
+    </ClInclude>
+    <ClInclude Include="SqliteORMTesting\person.hxx">
+      <Filter>SqliteORMTesting</Filter>
+    </ClInclude>
+    <ClInclude Include="SqliteORMTesting\person-odb.hxx">
+      <Filter>SqliteORMTesting</Filter>
+    </ClInclude>
+    <ClInclude Include="SqliteORMTesting\Settings.h">
+      <Filter>SqliteORMTesting</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="SqliteORMTesting\person.xml">
+      <Filter>SqliteORMTesting</Filter>
+    </Xml>
   </ItemGroup>
 </Project>
